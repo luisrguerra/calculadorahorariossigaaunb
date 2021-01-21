@@ -1,0 +1,21 @@
+Versão 1.2 20/01/2021
+Programa desenvolvido por Luís Eduardo Ribeiro Guerra
+luiseduardoribeiroguerra@gmail.com
+
+Avisos:
+1. Execute o programa pelo arquivo "Calculadora SIGAA.exe"
+
+2.  O Windows Defender pode acabar bloqueando o programa, isso é devido a um erro do 
+    antivírus que detecta da forma errada o programa. Ainda não foi encontrada uma solução.
+    No Windows Defender dê permissão para executar o programa, isso irá resolver o problema.
+    Este problema é causado por uma incompatibilidade do Windows Defender com o PyInstaller
+    da linguagem de programação Python.
+
+3. Não utilize mais de um código de horário SIGAA ao mesmo tempo, isso resultará em um
+   resultado incorretos.
+
+4. Não confie 100% nos resultados do programa, erros imprevistos podem ocorrer. Se encontrar
+   algum erro manda uma mensagem explicando para que eu dê uma olhada. 
+
+Espeficações mínimas:
+Windows 7 ,64 bits
